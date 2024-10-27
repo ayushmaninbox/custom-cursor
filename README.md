@@ -18,7 +18,7 @@ This project implements a custom cursor pointer with a trailing effect using HTM
 
 1. Clone the repository:
    ```
-   git clone https://github.com/ayushmaninbox/custom-cursor-pointer.git
+   git clone https://github.com/ayushmaninbox/custom-cursor.git
    ```
 
 2. Navigate to the project directory:
